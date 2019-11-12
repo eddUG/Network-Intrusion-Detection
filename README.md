@@ -1,4 +1,4 @@
-# Network-Intrusion-Detection-System
+# Network-Intrusion-Detection
 Network Intrusion Detection Binary Classification and Multi-class Classification
 ## BUSINESS PROBLEM: 
 Your task to build network intrusion detection system to detect anamolies and attacks in the network. There are two problems. 
