@@ -17,11 +17,8 @@ For more about data: http://www.unb.ca/cic/datasets/nsl.html
 * Generating New Features from Existing
 * Generating Data Audit Report for both Numerical and Categorical 
 
-### EDA
-* Box Plot
-* Anova test for Variable reduction
-
-### Converting Categorical features to numeric for machine learning
+* EDA
+* Converting Categorical features to numeric for machine learning
 * Generating Dummies
 * Merging both numeric & categorical variable
 
